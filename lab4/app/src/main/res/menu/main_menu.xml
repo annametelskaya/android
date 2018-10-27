@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/open_fragment"
+        android:title="Фрагмент" />
+    <item
+        android:id="@+id/open_toast"
+        android:title="Всплывающие сообщения" />
+    <item
+        android:id="@+id/open_dialogs"
+        android:title="Диалоги" />
+    <item
+        android:id="@+id/close"
+        android:title="Закрыть" />
+</menu>
